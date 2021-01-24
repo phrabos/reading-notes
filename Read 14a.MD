@@ -1,0 +1,6 @@
+- http://learn.shayhowe.com/advanced-html-css/css-transforms/
+- http://learn.shayhowe.com/advanced-html-css/transitions-animations/
+- http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users
+- http://codepen.io/retyui/pen/ByoaXV
+- http://codepen.io/kieranfivestars/pen/MYdQxX
+ - http://codepen.io/dp_lewis/pen/gCfBv

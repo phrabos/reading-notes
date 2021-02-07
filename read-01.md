@@ -1,0 +1,2 @@
+Template literals are strings that allow embeded expressions. Template literals go insdie of backticks. Use syntactic sugar by placing expressions inside `${}` Template literals make multiline strings more streamlined. Template literals can be used inside the HTML file. Rest parameters syntax is `...`. 
+forEach() method will execute a function once for each array element. The forEach method takes in a callback function. ForEach does not mutate the array on which it is called. You can take a nested array and flatten it into one array using array.prototype.flat().

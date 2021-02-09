@@ -1,0 +1,6 @@
+Atomic design methodology breakds design components down into small pieces that can easily be coded. Atoms include basic HTML elements. Start by splitting the page into large sections. Then divide the large sections into molecules. Then extract the atoms from the molecules.
+When coding, start with the smallest components and work up towards the biggest. Structure the folders to follow a consistent pattern.
+Callbacks are functions that are executed after another function has finished executing. Any function that is passed as an argument and called by the function that receives it is called a callback function. 
+First-class functions are a part of the language that allows functions to be stored as variables and passed as an arguement or used somewhere else in the code.  A function can also return a function.
+class syntax can be used to create objects. Class is similar to a constructor. Classes may include getters and setters. 
+Methods are functions inside of objects. This is s keyword used to access information stored in the object.

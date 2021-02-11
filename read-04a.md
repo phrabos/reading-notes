@@ -1,0 +1,2 @@
+URLSearchParam are utility methods to work with the query string of a URL. URLSearchParams has several methods for different use cases. The URL parameters can be modified using the methods. toString method will convert the URL to a string without the question mark.
+Location represents the URL of the object it is linked to. To access the location use Document.location or Window.location. 

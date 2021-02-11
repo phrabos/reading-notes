@@ -1,0 +1,1 @@
+Regex seems to be a tool used to search, filter, replace text and numbers based on specified patterns. Regex101 was a website to practice the different syntax to use Regex. This reminds of the of search and global search feature in VS Code.

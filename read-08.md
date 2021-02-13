@@ -1,0 +1,3 @@
+SQL Bolt. SQL is Structured Query Language, designed to allow both the technical and non-technical users query, manipulate and transform data from a relational database. It also provides storage for websites and apps. A relational database is a collection of 2D tables, similar to an Excel spreadsheet. SELECT statements are used to retrieve data from the database. SQL reminds me of RegEx, it is a powerful search tool, but has a unique syntax to learn. I think I will need a cheatsheep handy for SQL queries, I had trouble getting through the SQL Bolt lessons.
+- http://www.cheat-sheets.org/sites/sql.su/
+It's going to be a lot to learn when the primer on SQL is a 64 page pdf document. 
